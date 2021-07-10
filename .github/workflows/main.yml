@@ -7,7 +7,7 @@ on:
   watch:
     types: started
   repository_dispatch:
-    types: sync-helpu-JDHelp
+    types: sync-shufflewzc-faker2
 jobs:
   repo-sync:
     env:
